@@ -1,47 +1,5 @@
-# *<div align="center">I'm Alfian, a full-time and full-stack Developer</div>*  
+## *I'm Alfian, a full-time and full-stack Developer*  
   
-
-<br/>  
-
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-### Frontend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Backend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/codeigniter.svg" alt="CodeIgniter" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Database  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="75" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="75" />  
-</div>
-
-</td></tr></table>  
 
 <br/>  
 
@@ -72,5 +30,7 @@
 ## Github Stats  
 <img src="https://github-readme-stats.vercel.app/api?username=fianyagami&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fianyagami&hide_border=true&layout=compact" align="left" />
+<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fianyagami&hide_border=true&layout=compact" align="right" /></div>
 <br />
+
+----
