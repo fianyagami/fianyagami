@@ -8,6 +8,7 @@
 ## GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=fianyagami&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fianyagami&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<!-- [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=fianyagami&langs_count=10&theme=tokyonight)]() -->
 
 ---
 
